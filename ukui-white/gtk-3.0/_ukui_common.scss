@@ -526,7 +526,7 @@ treeview {
         background-image:image($headerbar_button_normal_bg_image);
         border-width: 0px;
         /* maximize and minimize close */
-        &:hover,&:backdrop:hover {
+        &:hover, &:backdrop:hover {
             color: $headerbar_button_prelight_fg_color;
             background-image: $headerbar_button_prelight_bg_image;
         }
@@ -542,9 +542,11 @@ treeview {
         /* close button */
         &.close:hover {
             background-image: $headerbar_closebutton_prelight_bg_image;
+			color:$headerbar_closebutton_active_fg_color;
         }
         &.close:active {
             background-image: $headerbar_closebutton_active_bg_image;
+			color:$headerbar_closebutton_active_fg_color;
         }
     }
 }

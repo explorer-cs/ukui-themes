@@ -5,6 +5,8 @@ usr/share/plymouth/themes/ubuntukylin-logo/
 usr/share/plymouth/themes/ubuntukylin-text/
 ukui-icon-theme ukui-icon-theme-one usr/share/icons/
 ukui-theme usr/share/themes/
+ukui-black usr/share/themes/
+ukui-white usr/share/themes/
 usr/share/fcitx-qimpanel/skin/ubuntukylin-dark1/
 usr/share/fcitx-qimpanel/skin/ubuntukylin-dark2/
 usr/share/fcitx-qimpanel/skin/ubuntukylin-light1/
