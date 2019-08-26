@@ -3,7 +3,7 @@
  * Base color
  */
 /* background colors in different states */
-$base_normal_bg_color: white;
+$base_normal_bg_color: #182127;
 $base_active_bg_color: #c2e7f5;
 $base_prelight_bg_color: #d1f1fd;
 $base_selected_bg_color: $base_active_bg_color;
@@ -21,10 +21,10 @@ $base_checked_bg_color: $base_active_bg_color;
 //$base_drop_active_bg_color: #f0f0f0;
 
 /* foreground colors in different states */
-$base_normal_fg_color: black;
-$base_active_fg_color: black;
-$base_prelight_fg_color: black;
-$base_selected_fg_color: black;
+$base_normal_fg_color: #cccccc;
+$base_active_fg_color: #cccccc;
+$base_prelight_fg_color: #cccccc;
+$base_selected_fg_color: #cccccc;
 $base_insensitive_fg_color: #bbbbbb;
 //$base_inconsistent_fg_color: #f0f0f0;
 $base_focused_fg_color: black;

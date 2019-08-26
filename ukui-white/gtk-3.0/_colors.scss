@@ -1,10 +1,10 @@
 $base_color: #ffffff;
 $text_color: black;
-$bg_color: #e8e8e7;
-$fg_color: #2e3436;
+$bg_color: #919191;
+$fg_color: black;
 
-$selected_fg_color: #ffffff;
-$selected_bg_color: #44aacf;/*#4a90d9*/
+$selected_fg_color: black;
+$selected_bg_color: #c5e4ff;/*#4a90d9*/
 $selected_borders_color: darken($selected_bg_color, 30%);
 $borders_color: darken($bg_color, 20%);
 $alt_borders_color: darken($bg_color, 35%);
