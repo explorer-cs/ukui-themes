@@ -10,7 +10,8 @@ $base_selected_bg_color: $base_active_bg_color;
 $base_insensitive_bg_color: #f0f0f0;
 //$base_inconsistent_bg_color: #f0f0f0;
 $base_focused_bg_color: #fafafa;
-$base_backdrop_bg_color: darken($base_normal_bg_color, 3%);
+$base_backdrop_bg_color: #171d21;
+//$base_backdrop_bg_color: darken($base_normal_bg_color, 3%);
 $base_backdrop_sensitive_bg_color: #fbfbfb; /* between disabled and normal, Defined by me. */
 $base_backdrop_insensitive_bg_color: $base_insensitive_bg_color;
 //$base_dir_ltr_bg_color: #f0f0f0;
@@ -160,7 +161,7 @@ $treeview_generic_border_color: #e5e5e5;
 $headerbar_normal_fg_color: #cccccc;
 $headerbar_backdrop_fg_color: #cccccc;
 
-$headerbar_normal_bg_image: image(#28343d);
+$headerbar_normal_bg_image: #28343d;
 $headerbar_backdrop_bg_image: image(#171d21);
 
 $headerbar_button_normal_fg_color: #dddddd;
@@ -168,7 +169,7 @@ $headerbar_button_backdrop_fg_color: #dddddd;
 $headerbar_button_prelight_fg_color: #dddddd;
 $headerbar_button_active_fg_color: #dddddd;
 
-$headerbar_button_normal_bg_image: image(#28343d);
+$headerbar_button_normal_bg_image: #28343d;
 $headerbar_button_backdrop_bg_image: image(#171d21);
 $headerbar_button_prelight_bg_image: image(#545d64);
 $headerbar_button_active_bg_image: image(#434d55);

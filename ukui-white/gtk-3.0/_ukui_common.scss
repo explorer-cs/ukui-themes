@@ -72,9 +72,9 @@ menubar {
   box-shadow: none;
   /* For most widget, we don't need box-shadow at all. */
   /* normal */
-  color: black;
-  background-color: #f5f6f7;
-  border-color: #bbbbbb;
+  color: $headerbar_normal_fg_color;
+  background-color: $headerbar_normal_bg_image;
+  border-color: #d2d2d2;
   border-width: 1px;
   /* focus */
   /* prelight */
@@ -111,9 +111,9 @@ menubar {
   box-shadow: none;
   /* For most widget, we don't need box-shadow at all. */
   /* normal */
-  color: black;
-  background-color: #f5f6f7;
-  border-color: #bbbbbb;
+  color: $headerbar_normal_fg_color;
+  background-color: $headerbar_normal_bg_image;
+  border-color: #d2d2d2;
   border-width: 1px;
   /* focus */
   /* prelight */

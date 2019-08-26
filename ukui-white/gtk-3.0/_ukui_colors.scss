@@ -10,7 +10,8 @@ $base_selected_bg_color: $base_active_bg_color;
 $base_insensitive_bg_color: #f0f0f0;
 //$base_inconsistent_bg_color: #f0f0f0;
 $base_focused_bg_color: #fafafa;
-$base_backdrop_bg_color: darken($base_normal_bg_color, 3%);
+$base_backdrop_bg_color:#e5e7e9;
+//$base_backdrop_bg_color: darken($base_normal_bg_color, 3%);
 $base_backdrop_sensitive_bg_color: #fbfbfb; /* between disabled and normal, Defined by me. */
 $base_backdrop_insensitive_bg_color: $base_insensitive_bg_color;
 //$base_dir_ltr_bg_color: #f0f0f0;
@@ -160,7 +161,7 @@ $treeview_generic_border_color: #e5e5e5;
 $headerbar_normal_fg_color: black;
 $headerbar_backdrop_fg_color: black;
 
-$headerbar_normal_bg_image: image(#e5e7e9);
+$headerbar_normal_bg_image: #e5e7e9;
 $headerbar_backdrop_bg_image: image(#e5e7e9);
 
 $headerbar_button_normal_fg_color: black;
