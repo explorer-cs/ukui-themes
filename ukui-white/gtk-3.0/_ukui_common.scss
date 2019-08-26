@@ -30,7 +30,7 @@
     /* prelight */
     &:hover {
         color: $base_prelight_fg_color;
-        background-color: $base_prelight_bg_color;
+        background-color:$selected_bg_color;
         border-color: $base_prelight_border_color;
     }
 
