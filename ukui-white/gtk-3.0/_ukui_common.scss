@@ -3,7 +3,7 @@
 }
 
 .background {
-    background-color: $base_normal_bg_color;
+    background-color: #f2f3f4;
 }
 
 /***************
@@ -121,6 +121,7 @@ menubar {
   /* checked */
   /* insensitive */
         &:hover {
+			color:$base_normal_fg_color;
             background-color: $menubar_menuitem_prelight_bg_color;
         }
     }

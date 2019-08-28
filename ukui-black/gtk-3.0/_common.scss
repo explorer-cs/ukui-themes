@@ -45,7 +45,7 @@ $button_transition: all 200ms $ease-out-quad;
 
     &:backdrop {
         color: $backdrop_fg_color;
-        background-color: $base_backdrop_bg_color;
+       /* background-color: $base_backdrop_bg_color;*/
         text-shadow: none;
         -gtk-icon-shadow: none;
     }
@@ -1653,7 +1653,7 @@ combobox {
 %toolbar {
     -GtkWidget-window-dragging: true;
     padding: 4px;
-    background-color: $base_normal_bg_color;
+    background:$headerbar_normal_bg_image;
 }
 
 toolbar {

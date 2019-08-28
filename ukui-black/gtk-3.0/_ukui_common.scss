@@ -121,6 +121,7 @@ menubar {
   /* checked */
   /* insensitive */
         &:hover {
+			color:$base_normal_fg_color;
             background-color: $menubar_menuitem_prelight_bg_color;
         }
     }
