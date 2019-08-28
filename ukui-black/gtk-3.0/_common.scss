@@ -2980,16 +2980,16 @@ scrollbar {
 
     &.fine-tune {
         slider {
-            min-width: 4px;
-            min-height: 4px;
+            min-width: 0px;
+            min-height: 0px;
         }
 
         &.horizontal slider {
-            border-width: 5px 4px;
+            border-width: 0px 0px;
         }
 
         &.vertical slider {
-            border-width: 4px 5px;
+            border-width: 0px 0px;
         }
     }
 
