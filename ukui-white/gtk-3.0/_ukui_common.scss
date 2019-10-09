@@ -88,8 +88,10 @@ menubar {
  */
 %menuitem_base_class {
     @extend %widget_base_class;
+background:$menu_color;
     &:disabled {
         background-color: $menuitem_insensitive_bg_color;
+        color:$insensitive_fg_color;
     }
 
     min-height: 22px;
