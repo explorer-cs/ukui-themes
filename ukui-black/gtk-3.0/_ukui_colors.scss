@@ -7,12 +7,12 @@ $base_normal_bg_color: #182127;
 $base_active_bg_color: #3a485c;
 $base_prelight_bg_color: #465561;
 $base_selected_bg_color: $base_active_bg_color;
-$base_insensitive_bg_color: #f0f0f0;
+$base_insensitive_bg_color: #3e464c;
 //$base_inconsistent_bg_color: #f0f0f0;
 $base_focused_bg_color: #fafafa;
 $base_backdrop_bg_color: #171d21;
 //$base_backdrop_bg_color: darken($base_normal_bg_color, 3%);
-$base_backdrop_sensitive_bg_color: #fbfbfb; /* between disabled and normal, Defined by me. */
+$base_backdrop_sensitive_bg_color: #3e464c; /* between disabled and normal, Defined by me. */
 $base_backdrop_insensitive_bg_color: $base_insensitive_bg_color;
 //$base_dir_ltr_bg_color: #f0f0f0;
 //$base_dir_rtl_bg_color: #f0f0f0;
@@ -36,11 +36,11 @@ $base_backdrop_insensitive_fg_color: $base_insensitive_fg_color;
 //$base_dir_rtl_fg_color: #f0f0f0;
 //$base_link_fg_color: #f0f0f0;
 //$base_visited_fg_color: #f0f0f0;
-$base_checked_fg_color: black;
+$base_checked_fg_color: #cccccc;
 //$base_drop_active_fg_color: #f0f0f0;
 
 /* border color in different states */
-$base_normal_border_color: #bbbbbb;
+$base_normal_border_color: #696f74;
 $base_active_border_color: #56a3bf;
 $base_prelight_border_color: #77cdef;
 //$base_selected_border_color: #dcebfd;
@@ -90,7 +90,7 @@ $menuitem_insensitive_bg_color: #283138;
 /*
  * ComboBox
  */
-$combobox_button_normal_bg_image: image(#f9f9f9);
+$combobox_button_normal_bg_image: image(#3e464c);
 /* ComboBox dropdown colors */
 $combobox_dropdown_menuitem_prelight_fg_color: black;
 $combobox_dropdown_menuitem_prelight_bg_color: #44aacf;
@@ -108,8 +108,8 @@ $combobox_dropdown_menuitem_normal_bg_color: #f9f9f9;
  * Notebooks
  */
 $notebook_generic_border_color: $base_normal_border_color;
-$notebook_tab_normal_bg_color: #f0f0f0;
-$notebook_tab_checked_bg_color: #FFF;
+$notebook_tab_normal_bg_color: #3e464c;
+$notebook_tab_checked_bg_color: #182127;
 $notebook_tab_closebutton_normal_bg_image: image($notebook_tab_normal_bg_color);
 $notebook_tab_closebutton_checked_bg_image: image($notebook_tab_checked_bg_color);
 
