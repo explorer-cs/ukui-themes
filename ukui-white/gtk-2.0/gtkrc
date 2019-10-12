@@ -19,7 +19,7 @@
 # NOTE: Fork from Menta
 
 # These are the defined colors for the theme, you can change them in MATE's appearance preferences.
-gtk_color_scheme = "bg_color:#e5e7e9\nselected_bg_color:#cfe6fd\nbase_color:#FFF" # Background, base.
+gtk_color_scheme = "bg_color:#e5e7e9\nselected_bg_color:#d4ebff\nbase_color:#FFF" # Background, base.
 gtk_color_scheme = "fg_color:#000000\nselected_fg_color:#000000\ntext_color:#000000" # Foreground, text.
 gtk_color_scheme = "tooltip_bg_color:#FFF\ntooltip_fg_color:#000000" # Tooltips.TODO:PZ
 gtk_color_scheme = "link_color:#08c" # Hyperlinks TODO:PZ
@@ -27,12 +27,12 @@ gtk_color_scheme = "bg_color_dark:#3f3f3f\ntext_color_dark:#FFF" # Dark colors T
 
 
 gtk_color_scheme = "button_bg_color:#fbfbfb\nbutton_insensitive_bg_color:#f0f0f0\nbutton_insensitive_fg_color:#bbbbbb" # Dark colors TODO:PZ
-gtk_color_scheme = "active_color:#e2e2e2\nprelight_color:#e2e2e2\nmurrine_focus_color:#fbfbfb"
+gtk_color_scheme = "active_color:#b5d6f7\nprelight_color:#cfe6fd\nmurrine_focus_color:#fbfbfb"
 gtk_color_scheme = "murrine_border_colors:#cccccc"
 gtk_color_scheme = "entry_bg_colors:#ffffff"
 gtk_color_scheme = "entry_border_colors:#cccccc"
 gtk_color_scheme = "murrine_notebook_active_colors:#ffffff"
-gtk_color_scheme = "menu_bg_colors:#ececec"
+gtk_color_scheme = "menu_bg_colors:#f2f2f2"
 gtk_color_scheme = "treeview_header_normal_colors:#ffffff"
 gtk_color_scheme = "tooltip_border_colors:#777777"
 gtk_color_scheme = "selected_colors_dark:#3094F1"
