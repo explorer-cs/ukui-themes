@@ -26,12 +26,12 @@ gtk_color_scheme = "link_color:#08c" # Hyperlinks TODO:PZ
 gtk_color_scheme = "bg_color_dark:#3f3f3f\ntext_color_dark:#FFF" # Dark colors TODO:PZ
 
 
-gtk_color_scheme = "button_bg_color:#3e464c\nbutton_insensitive_bg_color:#f0f0f0\nbutton_insensitive_fg_color:#6a6e71" # Dark colors TODO:PZ
+gtk_color_scheme = "button_bg_color:#3e464c\nbutton_insensitive_bg_color:#182127\nbutton_insensitive_fg_color:#6a6e71" # Dark colors TODO:PZ
 gtk_color_scheme = "active_color:#495965\nprelight_color:#566774\nmurrine_focus_color:#36424a"
 gtk_color_scheme = "murrine_border_colors:#cccccc"
 gtk_color_scheme = "entry_bg_colors:#182127"
 gtk_color_scheme = "entry_border_colors:#cccccc"
-gtk_color_scheme = "murrine_notebook_active_colors:#ffffff"
+gtk_color_scheme = "murrine_notebook_active_colors:#28343d"
 gtk_color_scheme = "menu_bg_colors:#283138"
 gtk_color_scheme = "treeview_header_normal_colors:#182127"
 gtk_color_scheme = "tooltip_border_colors:#777777"
