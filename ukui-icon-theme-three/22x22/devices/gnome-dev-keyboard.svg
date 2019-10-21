@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="键盘" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 22 22" style="enable-background:new 0 0 22 22;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#677A89;stroke-miterlimit:10;}
+	.st1{fill:#DBDEE5;}
+	.st2{fill:#CC533E;}
+	.st3{fill:#677A89;}
+</style>
+<title>22</title>
+<g id="_22">
+	<path class="st0" d="M7.9,3.5h1.5c1.1,0,2,0.9,2.1,2v3.4"/>
+	<path class="st0" d="M9,3.5H7.5c-1.1,0-2-1.4-2-2.5"/>
+	<path class="st1" d="M2,7h18c0.6,0,1,0.4,1,1v12c0,0.6-0.4,1-1,1H2c-0.6,0-1-0.4-1-1V8C1,7.4,1.4,7,2,7z"/>
+	<rect x="6" y="17" class="st2" width="10" height="2"/>
+	<rect x="2" y="17" class="st3" width="2" height="2"/>
+	<rect x="18" y="17" class="st3" width="2" height="2"/>
+	<rect x="2" y="9" class="st3" width="2" height="2"/>
+	<rect x="6" y="9" class="st3" width="2" height="2"/>
+	<rect x="10" y="9" class="st3" width="2" height="2"/>
+	<rect x="14" y="9" class="st3" width="2" height="2"/>
+	<rect x="2" y="13" class="st3" width="2" height="2"/>
+	<rect x="6" y="13" class="st3" width="2" height="2"/>
+	<rect x="10" y="13" class="st3" width="2" height="2"/>
+	<rect x="14" y="13" class="st3" width="6" height="2"/>
+	<rect x="18" y="9" class="st3" width="2" height="2"/>
+</g>
+</svg>
