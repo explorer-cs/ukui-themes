@@ -620,7 +620,7 @@ button {
 
         &.flat {
             @include button(undecorated);
-
+	
             // to avoid adiacent buttons borders clashing when transitioning, the transition on the normal state is set
             // to none, while it's added back in the hover state, so the button decoration will fade in on hover, but
             // it won't fade out when the pointer leave the button allocation area. To make the transition more evident
@@ -646,20 +646,22 @@ button {
         &:active,
         &:checked {
             @include button(active);
-
+	
             transition-duration: 50ms;
         }
 
         &:backdrop {
+
             &.flat, & {
                 @include button(backdrop);
-
+		
                 transition: $backdrop_transition;
                 -gtk-icon-effect: none;
 
                 &:active,
                 &:checked {
                     @include button(backdrop-active);
+			
                 }
 
                 &:disabled {
@@ -2800,10 +2802,9 @@ notebook {
 
             &:backdrop:checked {
                 color: $backdrop_fg_color;
-
                 &, &.reorderable-page {
                     border-color: $backdrop_borders_color;
-                    background-color: $backdrop_bg_color;
+                    background-color: $base_backdrop_bg_color;
                 }
             }
 
@@ -3074,25 +3075,25 @@ scrollbar {
 
         &:hover {
             @include button(undecorated);
-
+	    background-color: #a6a6a6;	
             color: $scrollbar_slider_hover_color;
         }
 
         &:active, &:checked {
             @include button(undecorated);
-
+	    background-color:#606060;
             color: $scrollbar_slider_active_color;
         }
 
         &:disabled {
             @include button(undecorated);
-
+	    
             color: transparentize($scrollbar_slider_color, 0.8);
         }
 
         &:backdrop {
             @include button(undecorated);
-
+	    background-color:#f0f0f0;
             color: $backdrop_scrollbar_slider_color;
 
             &:disabled {
