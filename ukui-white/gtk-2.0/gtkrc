@@ -618,7 +618,7 @@ style "murrine-radiocheck-menu" {
 style "murrine-toolbar" = "murrine-thin" {
 	bg[NORMAL] = @bg_color 
 	engine "murrine" {
-		contrast		= 1.0
+		contrast		= 0.0
 		border_colors		= FALSE
 	}
 }
