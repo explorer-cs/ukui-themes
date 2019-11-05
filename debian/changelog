@@ -1,3 +1,9 @@
+ukui-theme (2.1.0.0) eoan; urgency=medium
+
+  * Update style and icons of ukui3.0
+
+ -- meiyanliu <meiyanliu@ubuntukylin.com>  Mon, 04 Nov 2019 14:29:46 +0800
+
 ubuntukylin-theme (1.8.2.1) disco; urgency=medium
 
   * Add generic-x-text, generic-x-script, folder-drag-accept,
