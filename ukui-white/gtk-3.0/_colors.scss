@@ -18,7 +18,7 @@ $menu_color: #f2f2f2;
 $popover_bg_color: $bg_color;
 $popover_hover_color: lighten($bg_color, 5%);
 
-$scrollbar_bg_color: mix($bg_color, $fg_color, 80%);
+$scrollbar_bg_color:#cdcdcd;
 $scrollbar_slider_color: mix($fg_color, $bg_color, 60%);
 $scrollbar_slider_hover_color: mix($fg_color, $bg_color, 80%);
 $scrollbar_slider_active_color: darken($selected_bg_color, 10%);
