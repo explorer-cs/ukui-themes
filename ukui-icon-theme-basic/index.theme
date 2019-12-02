@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=ukui-icon-theme-one
+Name=ukui-icon-theme-basic
 Comment=Icon theme for UKUI ,from moka.
 Inherits=Faba,gnome,hicolor
 
