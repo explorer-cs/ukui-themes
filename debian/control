@@ -20,6 +20,6 @@ Depends: gnome-icon-theme,
          ${misc:Depends},
          ${shlibs:Depends}
 Replaces: ubuntukylin-theme
-Description: ukui theme
+Description:theme for Ubuntu Kylin
  This package contains the default theme for Ubuntu Kylin,
  which is to be a flavor of Ubuntu.
